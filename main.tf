@@ -224,3 +224,4 @@ resource "docker_registry_image" "taskoverflow" {
 #     assign_public_ip = true
 #   }
 # }
+#
